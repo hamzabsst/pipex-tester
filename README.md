@@ -33,7 +33,7 @@ Clone the repository and navigate to the tester directory:
 git clone https://github.com/hamzabsst/pipex-tester.git
 cd pipex-tester
 ```
-copy the tester into the root of your repo:
+Copy the tester script into the root of your Pipex repository. Make sure the pipex executable is present in the same directory.
 for mantadory:
 ```sh
 bash pipex_tester.sh
@@ -42,3 +42,5 @@ for bonus:
 ```sh
 bash pipex_tester.sh bonus
 ```
+
+Let me know if you want modifications! 🚀
